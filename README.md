@@ -1,2 +1,2 @@
 # R-LAB
-just a text
+just a test
